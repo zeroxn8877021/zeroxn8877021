@@ -1,27 +1,51 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=478CBF&center=true&vCenter=true&width=600&lines=Game+Developer;Godot+Engine+Specialist;Building+Worlds+from+Scratch;Web+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Loading+Player_001...;Initializing+Game+Developer;Spawning+New+Worlds;Compiling+Dreams+into+Code;Welcome+to+my+world." alt="Typing SVG" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:478CBF&height=180&section=header&text=PARAS%20SHARMA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 </div>
 
+<table align="center">
+<tr>
+<td>
+
+```yaml
+class: GameDeveloper
+alias: zeroxn8877021
+role: Founder @ Zerox Team
+weapon_of_choice: Godot Engine
+specialization: [Third Person Action, Open World, Mobile/Android]
+status: #OpenToWork
+```
+
+</td>
+</tr>
+</table>
+
 <br>
 
-<h1 align="center">Hi, I'm Paras Sharma</h1>
-<h3 align="center">Game Developer | Web Designer | Founder, Zerox Team</h3>
+## > about_me.exe
+
+I design and build games from the ground up — every system, every animation curve, every line of GDScript written by hand. My world is open world third person action, built primarily for Android, where performance and feel matter just as much as the visuals.
+
+I run **Zerox Team**, where ideas turn into playable builds. Outside the engine, I also design web interfaces, carrying the same precision from gameplay systems into UI.
+
+```
+[■■■■■■■■■■■■■■■■■■■■] 100%   Passion for Game Dev
+[■■■■■■■■■■■■■■■■□□□□]  85%   Godot Engine
+[■■■■■■■■■■■■■■□□□□□□]  75%   Mobile Optimization
+[■■■■■■■■■■■■□□□□□□□□]  65%   Web Design
+[■■■■■■■■■■■■■■■□□□□□]  78%   Character Animation
+```
 
 <br>
 
-## About Me
+## > tech_stack.json
 
-I build games from the ground up — worlds, characters, systems, and the code that holds them together. My focus is on third person and open world action games, primarily using Godot Engine, with an emphasis on mobile platforms and Android optimization. Outside of game development, I also design and build web interfaces, blending the same attention to detail across both disciplines.
-
-I lead **Zerox Team**, where I work on original game projects from concept through to playable builds.
-
-<br>
-
-## What I Work With
-
-<div align="left">
+<div align="center">
 
 ![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge)
@@ -36,18 +60,18 @@ I lead **Zerox Team**, where I work on original game projects from concept throu
 
 <br>
 
-## Focus Areas
+## > current_focus.log
 
-- Third person and open world game design in Godot Engine
-- Mobile-first control systems and Android performance optimization
-- Character animation pipelines and rigging workflows
-- Web design and interface development
+- Designing and developing open world third person action games in Godot
+- Engineering mobile-first touch control systems and Android performance pipelines
+- Building character rigs and animation blend systems
+- Crafting web interfaces on the side
 
 <br>
 
-## Connect With Me
+## > connect.sh
 
-<div align="left">
+<div align="center">
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zerox.dev_88?si=M9uCDGGV8pQAgfj_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-sharma-a86863225)
@@ -59,8 +83,5 @@ I lead **Zerox Team**, where I work on original game projects from concept throu
 
 <br>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:478CBF,100:0F2027&height=120&section=footer" />
 
-<sub>Currently building GTS — an open world third person action game for Android, under Zerox Team.</sub>
-
-</div>
