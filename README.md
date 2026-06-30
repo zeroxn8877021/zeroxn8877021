@@ -1,25 +1,44 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Loading+Player_001...;Initializing+Game+Developer;Spawning+New+Worlds;Compiling+Dreams+into+Code;Welcome+to+my+world." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:478CBF&height=200&section=header&text=Paras%20Sharma&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Game%20Developer%20%7C%20Web%20Designer&descAlignY=58&descSize=18" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:478CBF&height=180&section=header&text=PARAS%20SHARMA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=478CBF&center=true&vCenter=true&width=600&lines=Building+Games+with+Godot+Engine;Designing+Open+World+Experiences;Crafting+Clean+Web+Interfaces" alt="Typing SVG" />
 
 </div>
 
-<table align="center">
-<tr>
-<td>
+<br>
 
-```yaml
-class: GameDeveloper
-alias: zeroxn8877021
-role: Founder @ Zerox Team
-weapon_of_choice: Godot Engine
-specialization: [Third Person Action, Open World, Mobile/Android]
-status: #OpenToWork
-```
+## About
+
+I am a game developer focused on building third person and open world action games, primarily using Godot Engine and optimized for Android. I work across the full development cycle — environment design, character systems, animation, mobile input, and performance tuning.
+
+I lead **Zerox Team**, where I take game concepts from early prototypes through to finished, playable builds. Alongside game development, I also design and build web interfaces, applying the same level of care to layout, interaction, and detail.
+
+<br>
+
+## Expertise
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Game Development**
+- Third person and open world game design
+- Godot Engine architecture and scene systems
+- Character rigging and animation pipelines
+- Mobile touch input and control systems
+- Android performance optimization
+
+</td>
+<td valign="top" width="50%">
+
+**Web Design**
+- Interface and layout design
+- Responsive front-end development
+- Visual design in Figma
+- HTML, CSS, and JavaScript
 
 </td>
 </tr>
@@ -27,23 +46,7 @@ status: #OpenToWork
 
 <br>
 
-## > about_me.exe
-
-I design and build games from the ground up — every system, every animation curve, every line of GDScript written by hand. My world is open world third person action, built primarily for Android, where performance and feel matter just as much as the visuals.
-
-I run **Zerox Team**, where ideas turn into playable builds. Outside the engine, I also design web interfaces, carrying the same precision from gameplay systems into UI.
-
-```
-[■■■■■■■■■■■■■■■■■■■■] 100%   Passion for Game Dev
-[■■■■■■■■■■■■■■■■□□□□]  85%   Godot Engine
-[■■■■■■■■■■■■■■□□□□□□]  75%   Mobile Optimization
-[■■■■■■■■■■■■□□□□□□□□]  65%   Web Design
-[■■■■■■■■■■■■■■■□□□□□]  78%   Character Animation
-```
-
-<br>
-
-## > tech_stack.json
+## Tools and Technologies
 
 <div align="center">
 
@@ -51,25 +54,16 @@ I run **Zerox Team**, where ideas turn into playable builds. Outside the engine,
 ![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 <br>
 
-## > current_focus.log
-
-- Designing and developing open world third person action games in Godot
-- Engineering mobile-first touch control systems and Android performance pipelines
-- Building character rigs and animation blend systems
-- Crafting web interfaces on the side
-
-<br>
-
-## > connect.sh
+## Connect
 
 <div align="center">
 
@@ -83,5 +77,6 @@ I run **Zerox Team**, where ideas turn into playable builds. Outside the engine,
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:478CBF,100:0F2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:478CBF,50:203A43,100:0F2027&height=120&section=footer" />
 
+</div>
