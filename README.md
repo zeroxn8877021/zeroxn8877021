@@ -1,116 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=paras%20sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=game%20developer%20%7C%20web%20developer%20%7C%20prompt%20engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=478CBF&center=true&vCenter=true&width=600&lines=Game+Developer;Godot+Engine+Specialist;Building+Worlds+from+Scratch;Web+Designer" alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-<div align="center">
+<h1 align="center">Hi, I'm Paras Sharma</h1>
+<h3 align="center">Game Developer | Web Designer | Founder, Zerox Team</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=19+y%2Fo+developer+%26+designer;55%2B+coding+languages+mastered;game+dev+on+desktop+%26+mobile;building+with+godot%2C+python%2C+c%2B%2B;8+years+of+social+media+marketing;prompt+engineer+%26+ai+enthusiast)](https://git.io/typing-svg)
+<br>
 
-</div>
+## About Me
 
----
+I build games from the ground up — worlds, characters, systems, and the code that holds them together. My focus is on third person and open world action games, primarily using Godot Engine, with an emphasis on mobile platforms and Android optimization. Outside of game development, I also design and build web interfaces, blending the same attention to detail across both disciplines.
 
-<div align="center">
+I lead **Zerox Team**, where I work on original game projects from concept through to playable builds.
 
-### about me
+<br>
 
-</div>
+## What I Work With
 
-```yaml
-name       : paras sharma
-age        : 19
-status     : school student + professional developer
-based in   : india
-languages  : english | hindi | japanese
-```
+<div align="left">
 
-```python
-skills = {
-    "game_dev"    : ["godot engine", "desktop", "mobile", "game design"],
-    "web_dev"     : ["html", "css", "javascript", "ui/ux design"],
-    "languages"   : ["python", "c++", "css", "...and 52 more"],
-    "ai"          : ["prompt engineering", "ai-powered workflows"],
-    "marketing"   : ["social media strategy", "8 years experience"],
-}
-```
-
----
-
-<div align="center">
-
-### tech stack
-
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
----
+<br>
 
-<div align="center">
+## Focus Areas
 
-### github stats
+- Third person and open world game design in Godot Engine
+- Mobile-first control systems and Android performance optimization
+- Character animation pipelines and rigging workflows
+- Web design and interface development
 
-</div>
+<br>
 
-<div align="center">
+## Connect With Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=parAssharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parAssharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff" height="165" />
+<div align="left">
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parAssharma&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=0077b6&currStreakLabel=00b4d8" />
-
-</div>
-
----
-
-<div align="center">
-
-### activity graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parAssharma&theme=react-dark&bg_color=0d1117&color=00b4d8&line=0077b6&point=ffffff&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-sharma-a86863225)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zex.zeinth)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zerox.dev_88)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zerox.dev_88?si=M9uCDGGV8pQAgfj_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-sharma-a86863225)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/zex.zeinth?share_id=GzrPpUglKa8&locale=en-GB)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919310569907)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaroyal580@gmail.com)
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=parAssharma&color=00b4d8&style=for-the-badge&label=profile+views)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<sub>Currently building GTS — an open world third person action game for Android, under Zerox Team.</sub>
 
 </div>
